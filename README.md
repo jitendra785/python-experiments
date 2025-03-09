@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jitendra785(Jitendra Bhavsar)
 - 👀 I’m interested in Data Scientist.
-- 🌱 I’m currently learning Machine Learning And Artificial Intelligence at Symbiosis Skills And Professional University(SSPU) Pune.
-- 💞️ I’m looking to collaborate on Data Scientist, Buissness Analyst, Data Analyst, Statisticians. 
+- 🌱 I’m currently working at OORJAA as a SDE.
 - 📫 How to reach me 
 - Email: jsbhavsar99@gmail.com
 - Mobile Number: 9511288792
